@@ -17,3 +17,5 @@ A repo dedicated to creating a functional Wordle clone; Not Wordle™.
 
 I chose to focus on:
 **I want to see these spaces get populated/cleared as I type/hit backspace**
+
+So far, I've been able to implement functionality which populates and removes the square spaces with typed characters, but need to implement backspacing when clicking the backspace button.
