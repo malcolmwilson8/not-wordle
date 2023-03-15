@@ -1,6 +1,10 @@
 # not-wordle
 
-## user stories
+## About
+
+A repo dedicated to creating a functional Wordle clone; Not Wordle™.
+
+## User Stories
 - I want a random word 5 letter word to be generated when I play and see what letters I have selected
 - I want an onscreen keyboard to show letters I can click on
 - I want to see spaces for each letter of the current word I'm inputting
