@@ -2,7 +2,7 @@
 
 ## About
 
-A repo dedicated to creating a functional Wordle clone; Not Wordle™.
+A repo dedicated to creating a functional Wordle clone: Not Wordle™.
 
 ## User Stories
 - I want a random word 5 letter word to be generated when I play and see what letters I have selected
@@ -15,7 +15,13 @@ A repo dedicated to creating a functional Wordle clone; Not Wordle™.
 - I want to see a help menu
 - I want to be able to view my stats    
 
+## Focus
+
 I chose to focus on:
 **I want to see these spaces get populated/cleared as I type/hit backspace**
 
+## Progress
+
 So far, I've been able to implement functionality which populates and removes the square spaces with typed characters, but need to implement backspacing when clicking the backspace button.
+
+This project is still a WIP and will be updated in due course.
